@@ -1,0 +1,32 @@
+LEGENDE
+
+1. Escalier. Il mène de la tour à l’Ecole.
+2. Hall octogonal. Il est apparemment sculté dans la masse. Quatre portes indifférenciables, fermées, pourvues de panneaux de bronze, sont inscrites dans les murs obliques de la salle. Au centre de la pièce, une fontaine de marbre sombre déverse lentement une eau claire. Entre chaque porte des statues humaines, leurs yeux clos, les bras le long du corps, sont dressées.
+3. Dortoir des apprentis, quartiers des enseignants et appartements du Principal.
+4. Vestiaires. Des bancs de pierre entourent la petite pièce au dessus desquels sont suspendus les vêtements.
+5. Réfectoire des apprentis / salle de banquet. De longues tables s’alignent sur deux rangs, flanquées de quinze chaises de chaque côté. Au fond de la pièce, à la place d’honneur, surveillant la salle, un siège de marbre à haut dossier. Au fond de la pièce, une lourde barre de fer supporte une grande tapisserie séparée en oblique. D’un côté le blason de Verte Larme, de l’autre, celui de l’école.
+6. Salle à manger des enseignants et du Principal. Un unique table longue est dressée, entourée de cinq chaises. La salle est décorée agréablement de tapisserie et de mobilier précieux.
+7. Commodités. Un siège de bois percé d’un trou donnant dans un puit qui rejoint la rivière souterraine.
+8. Commodités. Un siège de bois percé d’un trou donnant dans un puit qui rejoint la rivière souterraine.
+9. Cuisine. Elle contient une table de travail, et des crochets sont suspendus aux poutres pour accrocher la viande. Une grande cheminée de pierre se dresse au nord de la pièce. Deux lourdes portes croisées de fer mènent aux gardes manger (11 & 12), alors qu’une trappe mène à une cave (10).
+10. Fumoir. Petite cave de 3 m sur 3 destinée à fumer la viande.
+11. Garde manger. Ici sont stockés les sacs de grains, les légumes et autres denrées.
+12. Garde manger. Ici sont stockés les sacs de grains, les légumes et autres denrées.
+13. Cave. Un passage mène à une petite grotte naturelle légèrement humide. Ici sont entreposés les vins, bières, et autres alcools.
+14. Entrepôt. Une lourde porte en pierre clos cette pièce. Ici sont entreposés divers matériels et matériaux.
+15. Entrepôt. Une lourde porte en pierre clos cette pièce. Ici sont entreposés divers matériels et matériaux.
+16. Pont. Pont enjambant le gouffre (17) et menant à la zone de travail. Il est tenu par de larges colonnes qui s’enfoncent dans l’obscurité du gouffre.
+17. Gouffre. Profond d’une vingtaine de mètres, son sol est sablonneux. Il est bien sûr d’une obscurité totale.
+18. Hall de l’école. Cette pièce est vide si ce n’est le dessin du blason de l’école fait en mosaïque sur le sol, en plein centre de la pièce. Deux portes de pierre lisse mènent à la bibliothèque (27) et au laboratoire (19)
+19. Laboratoire. Cette pièce est cerclée d’étagères couvrant les quatre murs. Au centre se trouve une solide table à tréteaux et deux hauts tabourets. Les étagères sont chargées d’ingrédients plus divers que variés les uns des autres (potions, mixtures, poudres et autres objets hétéroclites).
+20. Salle d’étude. Elle contient une large table ronde, un fauteuil de bois précieux à haut dossier et huit autres chaises. Elle est dépourvue de décoration et de mobilier si ce n’est un large tableau noir.
+21. Salle d’étude. Elle contient une large table ronde, un fauteuil de bois précieux à haut dossier et huit autres chaises. Elle est dépourvue de décoration et de mobilier si ce n’est un large tableau noir.
+22. Grotte naturelle. C’est une grande caverne naturelle ou s’écoule la rivière souterraine sur le côté ouest. L’eau tombe à flanc de rocher, se rassemble en une petite mare, puis coule vivement vers le sud-ouest où la caverne se rétrécit. Le sol de la caverne est sablonneux.
+23. Tunnel. C’est le conduit qui mène la rivière de la caverne (22) au viaduc (24). Il est fermé à chaque extrémités par deux lourdes grilles de fer.
+24. Viaduc. C’est ici que la rivière traverse le gouffre à l’aide d’un Viaduc de 1,20 m de haut, pour disparaître à nouveau dans un tunnel.
+25. Salle du conseil / Grande salle d’étude. Cette pièce est somptueusement décorée. Dans le mur du fond se dresse le Blason de l’école. Tout est teinté de noir et de couleurs sombres. Au centre une grand table faite de bois noir en forme de croissant est dressée, autour de laquelle sont disposées trente trois chaises. La salle est entourée de bas reliefs torturés et inquiétantes. Quelques statues toutes aussi inquiétantes sont disposées aux quatre coins.
+26. Couloir. Ce vaste couloir est encadré par une quinzaine de statues très réalistes, représentant visiblement la même personne. Chaque statue semble représentée un thème bien précis lié à la douleur, la mort, la souffrance ou la déchéance.
+27. Bibliothèque. C’est ici où sont contenus tous les écrits de l’école. La pièce est simple et silencieuse. Calfeutrée de tapis et de tapisseries épaisses. Hormis les nombreuses étagères, quelques bureaux d’études sont dressés.
+28. Salle d’étude personnelle du Principal. Cette pièce richement décorée est le bureau d’études personnel d’Atamore. Elle est richement meublée, décorée de tapisserie somptueuses et torturées. Le mobilier est sculté de scènes macabres et douloureuses, alors que le plafond n’est qu’un mosaïque de scène de tortures. Une grande table de marbre ovale siège au centre, alors que deux autres tables encombrées de matériels de livres et d’ustensiles sont collées au mur.
+29. Caverne naturelle. C’est ici que se rejoignent les passages secrets allant à la bibliothèque et au laboratoire. Le sol y est sablonneux.
+30. Antichambre. On y accède par un passage dérobé, qui s’ouvre avec l’unique clé que possède le principal. C’est ici qu’il entrepose les choses qu’il juge importantes. Elle est équipée sommairement pour servir éventuellement d’appartements secondaires.
