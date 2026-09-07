@@ -3,12 +3,8 @@ node_modules/
 .vinext/
 *.tar.gz
 
-# Sources de campagne privées et documents de travail
-sources/
-*.pdf
-*.doc
-*.docx
-*.odt
+# Les sources de campagne sont volontairement versionnées dans sources/
+# pour permettre à Codex de poursuivre l'analyse éditoriale.
 
 # Configuration locale et secrets
 .env
