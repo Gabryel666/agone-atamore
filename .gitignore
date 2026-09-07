@@ -2,3 +2,21 @@ node_modules/
 .npm-cache/
 .vinext/
 *.tar.gz
+
+# Sources de campagne privées et documents de travail
+sources/
+*.pdf
+*.doc
+*.docx
+*.odt
+
+# Configuration locale et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers locaux du système et des éditeurs
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
